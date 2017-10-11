@@ -1,0 +1,25 @@
+{
+  "name": "qaworks",
+  "version": "1.0.0",
+  "description": "Tech Test for QA Works",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milesillsley/QAWorks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milesillsley/QAWorks/issues"
+  },
+  "homepage": "https://github.com/milesillsley/QAWorks#readme",
+  "devDependencies": {
+    "wdio-dot-reporter": "0.0.9",
+    "wdio-jasmine-framework": "^0.3.2",
+    "wdio-selenium-standalone-service": "0.0.9",
+    "webdriver": "^5.0.0-rc1"
+  }
+}
