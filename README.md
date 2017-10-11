@@ -1,6 +1,6 @@
-#QA Works technical test
+# QA Works technical test
 
-##Task
+### Task
 Automate the following acceptance test for the QAWorks.com website:
 
 ```
