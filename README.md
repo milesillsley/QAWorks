@@ -18,7 +18,7 @@ Automate the following acceptance test for the QAWorks.com website:
         | message | please contact me I want to find out more |
 ```
 
-###Instructions for running code
+### Instructions for running code
 
 This Test was written in Javascript using webdriver.io and jasmine. It runs
 locally on a selenium server.
