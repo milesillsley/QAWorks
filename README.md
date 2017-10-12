@@ -17,3 +17,18 @@ Automate the following acceptance test for the QAWorks.com website:
         | email   | j.Bloggs@qaworks.com                      |
         | message | please contact me I want to find out more |
 ```
+
+###Instructions for running code
+
+This Test was written in Javascript using webdriver.io and jasmine. It runs
+locally on a selenium server.
+
+Selenium standalone must be installed, Firefox must also be installed.
+
+To run the tests:
+1. Clone this repo and cd into it
+2. ```npm install```
+3. ```npm install selenium-standalone```
+4. ```./node_modules/.bin/selenium-standalone install```
+5. ```./node_modules/.bin/selenium-standalone start```
+6. in new window open the project folder and run ```npm test```
