@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/milesillsley/QAWorks#readme",
   "devDependencies": {
+    "selenium-standalone": "^6.9.0",
     "wdio-dot-reporter": "0.0.9",
     "wdio-jasmine-framework": "^0.3.2",
     "wdio-selenium-standalone-service": "0.0.9",
